@@ -138,7 +138,7 @@ brew "zsh"
 
 # Heroku
 brew "heroku/brew/heroku"
-brew "parity"
+# brew "parity"
 
 # GitHub
 brew "gh"
